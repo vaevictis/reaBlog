@@ -39,7 +39,7 @@ When Apple released the iPad back in 2010, I was, like, What on Earth is this th
 
 Time went on.
 
-Out of curiosity and a desire to carry around lots of books even when travelling without paying the weight toll, I got myself one a year ago. One app I also installed on was [Paper by 53](https://www.fiftythree.com/paper). There are people out there producing incredibly beautiful art with it. But for me, it was more about having something to replace my paper notebook. Today, my tablet has gained its resident seat in my messenger bag. It's also the one device I carry around in meetings. As a developer, I attend to quite a bit of tech talks. They present their own set of challenges.
+Out of curiosity and a desire to carry around lots of books even when travelling without paying the weight toll, I got myself one a year ago. One app I also installed on was [Paper by FiftyThree](https://www.fiftythree.com/paper). There are people out there producing incredibly beautiful art with it. But for me, it was more about having something to replace my paper notebook. Today, my tablet has gained its resident seat in my messenger bag. It's also the one device I carry around in meetings. As a developer, I attend to quite a bit of tech talks. They present their own set of challenges.
 
 But let's take a few steps back. I'll detail that later.
 
@@ -70,15 +70,15 @@ Live sketchnoting is nothing without speed. The speaker won't wait. The meeting 
 Speed comes from...
 
 ### Practice
-When I really got into photography a few years back, I shot 40000 images in about 20 months. I spent about as much time on post-processing tools as I did behind the camera. Photography basically became a second full time job for 6 months to a year. I wouldn't recommend anyone to do that, unless they wanted to become _good_ and _fast_ at producing great images.
+When I really got into photography a few years back, I shot _fourty thousand_ images in about twenty months. I spent about as much time on post-processing tools as I did behind the camera. Photography basically became a second full time job for 6 months to a year. I wouldn't recommend anyone to do that, unless they wanted to become _good_ and _fast_ at producing great images.
 
 One of my favorite quotes, when I draw, design, photograph, or even write code (yeah, that happens), is unsurprisingly from a fantastic French author, Antoine de Saint Exupery. “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” As not all speakers really understand this principle, sketchnoting is a great opportunity to get rid of all the unnecessary cruft.
-In no time, you'll even be able to get your sketchnote posted on Twitter when the speaker leaves the stage.
+In no time, I even got able to get my sketchnote posted on Twitter when the speaker would leave the stage. Achievement unlocked.
 
 ### learn a few basic widgets / icons (bikablo)
 "a few of the bikablo icons"
 it's easy: U Z M O => light bulb example
-Don't rely on having a library of widgets and copy and pasting them. That will never be faster than knowing how to draw a set of basic symbols. We are faster at writing than copying and pasting words to make sentences, the same thing applies to sketching. Being proficient with around 30 simple symbols is pretty much all you need. If there's still doubt, my favorite tool doesn't support copy / paste. Problem solved.
+Don't rely on having a library of widgets and copy and pasting them. That will never be faster than knowing how to draw a set of basic symbols. We are faster at writing than copying and pasting words to make sentences, the same thing applies to sketching. Being proficient with around thirty simple symbols is pretty much all you need. If there's still doubt, my favorite tool doesn't support copy / paste. Problem solved.
 
 ### learn to filter out the important stuff
 A good talk / meeting would focus on a few key ideas. That's what needs to be recorded. Anecdotes are mostly time to cleanup what's already noted down. Sometime though, if an anecdote can be quickly sketched, it can make for a good memory anchor.
